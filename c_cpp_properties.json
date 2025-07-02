@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/navaid.wahid/Downloads/gbb-ai-agenticrag-main/gbb-ai-agenticrag-main/agenticrag/Include/site/python3.11/greenlet",
+                "C:/Users/navaid.wahid/AppData/Local/Programs/Python/Python313/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
