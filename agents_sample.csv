@@ -1,0 +1,9 @@
+ProductID,PatientID,GlucoseReading,DeviceAccuracy
+ProductA,Patient001,85,0.92
+ProductB,Patient002,88,0.95
+ProductA,Patient003,155,0.88
+ProductB,Patient004,152,0.91
+ProductA,Patient005,120,0.90
+ProductB,Patient006,118,0.94
+ProductA,Patient007,185,0.85
+ProductB,Patient008,188,0.89    
