@@ -1,0 +1,39 @@
+[project]
+name = "gbb-ai-agenticrag-main-new"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp==3.9.5",
+    "azure-ai-ml==1.15.0",
+    "azure-ai-projects>=1.0.0b12",
+    "azure-identity==1.15.0",
+    "azure-search>=1.0.0b2",
+    "azure-search-documents>=11.5.3",
+    "backoff==2.2.1",
+    "httpx==0.27.0",
+    "jinja2==3.1.4",
+    "matplotlib==3.9.2",
+    "pandas==2.2.2",
+    "pyarrow==17.0.0",
+    "pydantic==2.8.2",
+    "pymupdf==1.24.9",
+    "pypdf2==3.0.1",
+    "python-dotenv==1.0.1",
+    "requests==2.32.3",
+    "seaborn==0.13.2",
+    "semantic-kernel==1.5.1",
+    "streamlit==1.39.0",
+    "streamlit-chat==0.1.1",
+]
+
+[theme]
+primaryColor="#1F77B4"  # A professional blue tone
+backgroundColor="#F7F9FC"  # A light, clean background color
+secondaryBackgroundColor="#E9EEF3"  # A subtle secondary background color
+textColor="#2C3E50"  # A dark, professional text color
+font="sans serif"
+
+[server]
+enableXsrfProtection=false
